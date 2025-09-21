@@ -159,4 +159,8 @@ A classic **Snake Game** with added difficulty from randomly generated obstacles
 
 ---
 
+## Contributor
 
+* **Avani Deshpande** - avanideshpande2004@gmail.com
+
+---
