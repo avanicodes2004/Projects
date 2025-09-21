@@ -159,21 +159,4 @@ A classic **Snake Game** with added difficulty from randomly generated obstacles
 
 ---
 
-## 🤝 Contribution
 
-Contributions are welcome!
-
-1. Fork the repo.
-2. Create a new branch (`feature-xyz`).
-3. Commit changes.
-4. Open a Pull Request.
-
----
-
-## 📜 License
-
-This repository is open-source and available under the **MIT License**.
-
----
-
-👉 Abhishek, I can also make a **README with badges, demo GIFs/screenshots, and collapsible sections** to make it visually more professional. Do you want me to enhance it with those GitHub-style visuals?
